@@ -1,5 +1,5 @@
 # Overview
-This is the sandbox for projects using [hugo](https://gohugo.io/) as static site generator.
+This is the sandbox for projects using [hugo](https://gohugo.io/) as static site generator (SSG).
 
 # Links
 [Description of new site file structure](https://www.section.io/engineering-education/documentation-website-hugo/)
