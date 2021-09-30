@@ -1,0 +1,6 @@
+[submodule "guide-to-hugo/site/hugo-icon"]
+	path = guide-to-hugo/site/hugo-icon
+	url = https://github.com/SteveLane/hugo-icon.git
+[submodule "guide-to-hugo/site/themes/hugo-icon"]
+	path = guide-to-hugo/site/themes/hugo-icon
+	url = https://github.com/SteveLane/hugo-icon.git
